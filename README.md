@@ -1,5 +1,7 @@
 ### Hi there 👋
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanderoo&show_icons=true&locale=en&layout=compact" alt="vanderoo" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderoo)](https://github.com/vanderoo/github-readme-stats)
 <!--
 **vanderoo/vanderoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
